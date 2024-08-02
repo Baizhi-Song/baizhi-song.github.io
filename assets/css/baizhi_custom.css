@@ -1,0 +1,19 @@
+/* assets/css/baizhi_custom.css */
+.masthead__inner-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+.site-logo {
+order: 1;
+}
+
+.site-title {
+order: 2;
+}
+
+  /* Example of changing the background color of the masthead */
+.masthead {
+    background-color: #f8f9fa;
+  }

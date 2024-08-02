@@ -1,7 +1,7 @@
 {% include base_path %}
 
 {% if page.author_profile or layout.author_profile or page.sidebar %}
-  <div class="sidebar sticky">
+  <div class="sidebar sticky" id="sidebar">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
@@ -22,4 +22,26 @@
     {% endif %}
   {% endif %}
   </div>
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      var overlayHeader = document.getElementById("overlay-header");
+      var sidebar = document.getElementById("sidebar");
+
+      function adjustSidebarPosition() {
+        var overlayBottom = overlayHeader.getBoundingClientRect().bottom;
+        var sidebarTop = sidebar.getBoundingClientRect().top;
+
+        if (overlayBottom > 0) {
+          sidebar.style.position = 'absolute';
+          sidebar.style.top = (window.scrollY + overlayBottom) + 'px';
+        } else {
+          sidebar.style.position = 'fixed';
+          sidebar.style.top = '37px';
+        }
+      }
+
+      window.addEventListener('scroll', adjustSidebarPosition);
+      adjustSidebarPosition(); // Initial call to set the position
+    });
+  </script>
 {% endif %}

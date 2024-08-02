@@ -3,8 +3,8 @@ layout: single
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
-header:
-    overlay_image: /campus.jpg
+# header:
+#     overlay_image: /campus.jpg
 ---
 
 ## Teaching Assistant, London Business School

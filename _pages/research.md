@@ -2,11 +2,8 @@
 layout: archive
 title: "Research"
 permalink: /research/
-header:
-#   teaser: /LBS-Logo.png
-    overlay_image: /01_TOC/TOC_system03.jpg
-#   image: /LBS-Logo.png
-#   header: /LBS-Logo.png
+# header:
+#     overlay_image: /01_TOC/TOC_system03.jpg
     # overlay_color: "#333333" 
     # overlay_filter: 0.1
 author_profile: true

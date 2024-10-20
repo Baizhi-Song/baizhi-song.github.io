@@ -4,9 +4,9 @@ collection: research
 type: "Talk"
 permalink: /research/ocean_cleanup
 layout: archive
-header:
+# header:
 #   teaser: /LBS-Logo.png
-  overlay_image: /01_TOC/TOC_system03.jpg
+  # overlay_image: /01_TOC/TOC_system03.jpg
 #   image: /LBS-Logo.png
 #   header: /LBS-Logo.png
     # overlay_color: "#333333" 

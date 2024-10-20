@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a third-year Ph.D. candidate in [Management Science and Operations](https://www.london.edu/faculty-and-research/management-science-and-operations/phd-programme) at [London Business School](https://www.london.edu/), where I am fortunate to be advised by Prof. [Jean Pauphilet](https://jeanpauphilet.github.io/). I am also excited to collaborate with [Analytics for a Better World](https://analyticsbetterworld.org/). In 2021, I received my Master's degree in [Financial Engineering](https://ieor.columbia.edu/financial-engineering-msfe) from [Columbia University](https://www.columbia.edu/). In 2019, I  received my Bachelor’s degree in [Actuarial Science](https://cias.cufe.edu.cn/index.htm) from [Central University of Finance and Economics](https://en.cufe.edu.cn/) (China).  
+Welcome! I am a fourth-year Ph.D. candidate in [Management Science and Operations](https://www.london.edu/faculty-and-research/management-science-and-operations/phd-programme) at [London Business School](https://www.london.edu/), where I am fortunate to be advised by Prof. [Jean Pauphilet](https://jeanpauphilet.github.io/). I am also excited to collaborate with [Analytics for a Better World](https://analyticsbetterworld.org/). In 2021, I received my Master's degree in [Financial Engineering](https://ieor.columbia.edu/financial-engineering-msfe) from [Columbia University](https://www.columbia.edu/). In 2019, I  received my Bachelor’s degree in [Actuarial Science](https://cias.cufe.edu.cn/index.htm) from [Central University of Finance and Economics](https://en.cufe.edu.cn/) (China).  
 
 <!-- 
 A data-driven personal website

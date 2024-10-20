@@ -3,16 +3,14 @@ layout: archive
 title: "Research"
 permalink: /research/
 # header:
-#     overlay_image: /01_TOC/TOC_system03.jpg
+    # overlay_image: /01_TOC/TOC_system03.jpg
     # overlay_color: "#333333" 
     # overlay_filter: 0.1
 author_profile: true
 
 ---
 
-## Ocean Cleaning 
-
-<!-- <a href="{{ site.baseurl }}/research/ocean_cleanup.html" style="display: inline-block; padding: 4px 8px; font-size: 16px; color: white; background-color: #52acc8; text-align: center; text-decoration: none; border-radius: 5px;">Website</a> -->
+## Ocean Cleaning <a href="{{ site.baseurl }}/research/ocean_cleanup.html" style="display: inline-block; padding: 4px 8px; font-size: 16px; color: white; background-color: #52acc8; text-align: center; text-decoration: none; border-radius: 5px;">Website</a>
 
 Increasing ocean plastic pollution is irreversibly harming ecosystems and human economic activities. We partner with a Dutch NGO, <a href="https://theoceancleanup.com/">The Ocean Cleanup (TOC)</a>, and use optimization to help clean up oceans from plastic faster. 
 In our paper, we optimize the route of their plastic collection system in the ocean to maximize the quantity of plastic collected over time.

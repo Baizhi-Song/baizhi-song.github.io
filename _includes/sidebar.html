@@ -26,6 +26,16 @@
     console.log("Script loaded");
     document.addEventListener("DOMContentLoaded", function() {
       console.log("DOM fully loaded and parsed");
+      var overlayHeader = document.getElementById("overlay-header");
+      var sidebar = document.getElementById("sidebar");
+  
+      if (!overlayHeader || !sidebar) {
+        console.error("Element not found: ", !overlayHeader ? "overlay-header" : "sidebar");
+        return;
+      }
+  
+      console.log("Elements found: overlayHeader and sidebar");
+  
       
     });
   </script>

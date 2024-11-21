@@ -36,7 +36,28 @@
   
       console.log("Elements found: overlayHeader and sidebar");
   
-      
+      function adjustSidebarPosition() {
+        var overlayBottom = overlayHeader.getBoundingClientRect().bottom;
+        var sidebarTop = sidebar.getBoundingClientRect().top;
+  
+        console.log("Overlay bottom: ", overlayBottom);
+        console.log("Sidebar top: ", sidebarTop);
+  
+        if (overlayBottom > 0) {
+          sidebar.style.position = 'absolute';
+          sidebar.style.top = (window.scrollY + overlayBottom) + 'px';
+          console.log("Sidebar position set to absolute");
+        } else {
+          sidebar.style.position = 'fixed';
+          sidebar.style.top = '0';
+          console.log("Sidebar position set to fixed");
+        }
+      }
+  
+      window.addEventListener('scroll', adjustSidebarPosition);
+      console.log("Scroll event listener added");
+      adjustSidebarPosition();
+      console.log("Initial sidebar position adjusted");
     });
   </script>
 {% endif %}

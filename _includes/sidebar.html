@@ -23,43 +23,6 @@
     {% endif %}
   </div>
   <script>
-    {% raw %}
       console.log("Script loaded");
-      document.addEventListener("DOMContentLoaded", function() {
-        console.log("DOM fully loaded and parsed");
-        var overlayHeader = document.getElementById("overlay-header");
-        var sidebar = document.getElementById("sidebar");
-    
-        if (!overlayHeader || !sidebar) {
-          console.error("Element not found: ", !overlayHeader ? "overlay-header" : "sidebar");
-          return;
-        }
-    
-        console.log("Elements found: overlayHeader and sidebar");
-    
-        function adjustSidebarPosition() {
-          var overlayBottom = overlayHeader.getBoundingClientRect().bottom;
-          var sidebarTop = sidebar.getBoundingClientRect().top;
-    
-          console.log("Overlay bottom: ", overlayBottom);
-          console.log("Sidebar top: ", sidebarTop);
-    
-          if (overlayBottom > 0) {
-            sidebar.style.position = 'absolute';
-            sidebar.style.top = (window.scrollY + overlayBottom) + 'px';
-            console.log("Sidebar position set to absolute");
-          } else {
-            sidebar.style.position = 'fixed';
-            sidebar.style.top = '0';
-            console.log("Sidebar position set to fixed");
-          }
-        }
-    
-        window.addEventListener('scroll', adjustSidebarPosition);
-        console.log("Scroll event listener added");
-        adjustSidebarPosition(); // Initial call to set the position
-        console.log("Initial sidebar position adjusted");
-      });
-    {% endraw %}
-    </script>
+  </script>
 {% endif %}

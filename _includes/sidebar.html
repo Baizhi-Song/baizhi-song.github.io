@@ -23,6 +23,10 @@
     {% endif %}
   </div>
   <script>
-      console.log("Script loaded");
+    console.log("Script loaded");
+    document.addEventListener("DOMContentLoaded", function() {
+      console.log("DOM fully loaded and parsed");
+      
+    });
   </script>
 {% endif %}

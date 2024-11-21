@@ -2,8 +2,8 @@
 layout: archive
 title: "Research"
 permalink: /research/
-# header:
-    # overlay_image: /01_TOC/TOC_system03.jpg
+header:
+    overlay_image: /01_TOC/TOC_system03.jpg
     # overlay_color: "#333333" 
     # overlay_filter: 0.1
 author_profile: true

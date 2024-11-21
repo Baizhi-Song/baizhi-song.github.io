@@ -3,8 +3,8 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-# header:
-#     overlay_image: /forest.jpg
+header:
+    overlay_image: /forest.jpg
 ---
 <!-- [[Preprint]](https://optimization-online.org/2023/10/optimizing-the-path-towards-plastic-free-oceans/) [[Media]](https://www.london.edu/think/winning-the-race-for-cleaner-oceans-with-analytics) -->
 

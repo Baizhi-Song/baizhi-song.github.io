@@ -23,41 +23,38 @@
     {% endif %}
   </div>
   <script>
-    console.log("Script loaded");
     document.addEventListener("DOMContentLoaded", function() {
-      console.log("DOM fully loaded and parsed");
       var overlayHeader = document.getElementById("overlay-header");
       var sidebar = document.getElementById("sidebar");
-  
-      if (!overlayHeader || !sidebar) {
-        console.error("Element not found: ", !overlayHeader ? "overlay-header" : "sidebar");
+      var masthead = document.querySelector(".masthead");
+
+      if (!overlayHeader || !sidebar || !masthead || !footer) {
+        console.error("Element not found: ", !overlayHeader ? "overlay-header" : !sidebar ? "sidebar" : !masthead ? "masthead" : "footer");
         return;
       }
-  
-      console.log("Elements found: overlayHeader and sidebar");
-  
+    
       function adjustSidebarPosition() {
         var overlayBottom = overlayHeader.getBoundingClientRect().bottom;
         var sidebarTop = sidebar.getBoundingClientRect().top;
-  
-        console.log("Overlay bottom: ", overlayBottom);
-        console.log("Sidebar top: ", sidebarTop);
-  
-        if (overlayBottom > 0) {
-          sidebar.style.position = 'absolute';
-          sidebar.style.top = (window.scrollY + overlayBottom) + 'px';
-          console.log("Sidebar position set to absolute");
+        var mastheadBottom = masthead.getBoundingClientRect().bottom;
+        var screenWidth = window.innerWidth;
+        var breakpoint = 925;
+
+        if (screenWidth > breakpoint) {
+          if ((overlayBottom > mastheadBottom/5)&& ((window.innerHeight + window.scrollY) < document.documentElement.scrollHeight)) {
+            sidebar.style.position = 'absolute';
+            sidebar.style.top = (window.scrollY + overlayBottom) + 'px';
+          } else {
+            sidebar.style.position = 'fixed';
+            sidebar.style.top = (mastheadBottom/5) + 'px';
+          }
         } else {
-          sidebar.style.position = 'fixed';
-          sidebar.style.top = '0';
-          console.log("Sidebar position set to fixed");
+          sidebar.style.position = 'relative';
+          sidebar.style.top = 'auto';
         }
       }
-  
       window.addEventListener('scroll', adjustSidebarPosition);
-      console.log("Scroll event listener added");
       adjustSidebarPosition();
-      console.log("Initial sidebar position adjusted");
     });
   </script>
 {% endif %}

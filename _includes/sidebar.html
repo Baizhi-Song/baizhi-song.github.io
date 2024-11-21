@@ -2,41 +2,49 @@
 
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky" id="sidebar">
-  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  {% if page.sidebar %}
-    {% for s in page.sidebar %}
-      {% if s.image %}
-        <img src=
-        {% if s.image contains "://" %}
-          "{{ s.image }}"
-        {% else %}
-          "{{ s.image | prepend: "/images/" | prepend: base_path }}"
+    {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+    {% if page.sidebar %}
+      {% for s in page.sidebar %}
+        {% if s.image %}
+          <img src=
+          {% if s.image contains "://" %}
+            "{{ s.image }}"
+          {% else %}
+            "{{ s.image | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
         {% endif %}
-        alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+        {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
+        {% if s.text %}{{ s.text | markdownify }}{% endif %}
+      {% endfor %}
+      {% if page.sidebar.nav %}
+        {% include nav_list nav=page.sidebar.nav %}
       {% endif %}
-      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
-      {% if s.text %}{{ s.text | markdownify }}{% endif %}
-    {% endfor %}
-    {% if page.sidebar.nav %}
-      {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
-  {% endif %}
   </div>
   <script>
     document.addEventListener("DOMContentLoaded", function() {
       var overlayHeader = document.getElementById("overlay-header");
       var sidebar = document.getElementById("sidebar");
 
+      if (!overlayHeader || !sidebar) {
+        console.error("Element not found: ", !overlayHeader ? "overlay-header" : "sidebar");
+        return;
+      }
+
       function adjustSidebarPosition() {
         var overlayBottom = overlayHeader.getBoundingClientRect().bottom;
         var sidebarTop = sidebar.getBoundingClientRect().top;
+
+        console.log("Overlay bottom: ", overlayBottom);
+        console.log("Sidebar top: ", sidebarTop);
 
         if (overlayBottom > 0) {
           sidebar.style.position = 'absolute';
           sidebar.style.top = (window.scrollY + overlayBottom) + 'px';
         } else {
           sidebar.style.position = 'fixed';
-          sidebar.style.top = '37px';
+          sidebar.style.top = '0';
         }
       }
 

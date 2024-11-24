@@ -17,3 +17,15 @@ order: 2;
 .masthead {
     background-color: #f8f9fa;
   }
+
+
+html, body {
+  height: 100%;
+  margin: 0;
+  overflow: auto; /* Enable scrolling by default */
+}
+    
+/* Disable scrolling when content is shorter than the viewport */
+.no-scroll {
+overflow: hidden !important;
+}

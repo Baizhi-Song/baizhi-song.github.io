@@ -72,7 +72,7 @@
         if (overlay_diff <= window.innerHeight) {
           document.documentElement.classList.add('no-scroll');
           document.body.classList.add('no-scroll');
-          console.log("no-scroll");
+          console.log("no-scroll", document.body.classList);
         } else {
           document.documentElement.classList.remove('no-scroll');
           document.body.classList.remove('no-scroll');
@@ -81,13 +81,14 @@
       }
 
       adjustSidebarPosition();
+      toggleScrolling();
+
       var lastScrollY = window.scrollY;
       window.addEventListener('scroll', function() {
         adjustSidebarPosition();
       });
 
       window.addEventListener('resize', toggleScrolling);
-
       toggleScrolling();
     });
   </script>

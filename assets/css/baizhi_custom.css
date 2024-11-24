@@ -19,13 +19,9 @@ order: 2;
   }
 
 
-html, body {
-  height: 100%;
-  margin: 0;
-  overflow: auto; /* Enable scrolling by default */
-}
+
     
 /* Disable scrolling when content is shorter than the viewport */
-.no-scroll {
+/* .no-scroll {
 overflow: hidden !important;
-}
+} */

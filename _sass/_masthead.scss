@@ -57,32 +57,3 @@
   }
 }
 
-/* Hide navigation links on small screens */
-@media (max-width: 925px) {
-  .visible-links {
-    display: none;
-  }
-
-  .hidden-links {
-    display: none;
-  }
-
-  .navicon {
-    display: inline-block;
-  }
-}
-
-/* Show navigation links and apply greedy navigation on larger screens */
-@media (min-width: 926px) {
-  .visible-links {
-    display: flex;
-  }
-
-  .hidden-links {
-    display: none;
-  }
-
-  .navicon {
-    display: inline-block;
-  }
-}

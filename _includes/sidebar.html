@@ -67,12 +67,16 @@
         var footerBottom = document.querySelector("footer").getBoundingClientRect().bottom;
         var overlay_diff = footerBottom - overlayTop + mastheadBottom - mastheadTop;
         console.log("overlay_diff", overlay_diff);
+        console.log("window.innerHeight", window.innerHeight);
+        console.log("footerBottom", footerBottom);
         if (overlay_diff <= window.innerHeight) {
           document.documentElement.classList.add('no-scroll');
           document.body.classList.add('no-scroll');
+          console.log("no-scroll");
         } else {
           document.documentElement.classList.remove('no-scroll');
           document.body.classList.remove('no-scroll');
+          console.log("scroll");
         }
       }
 

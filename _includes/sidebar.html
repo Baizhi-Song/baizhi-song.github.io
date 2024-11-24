@@ -88,8 +88,10 @@
         adjustSidebarPosition();
       });
 
-      window.addEventListener('resize', toggleScrolling);
-      toggleScrolling();
+      window.addEventListener('resize', function() {
+        toggleScrolling();
+        adjustSidebarPosition();
+      });
     });
   </script>
 {% endif %}

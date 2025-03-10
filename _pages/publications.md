@@ -32,6 +32,6 @@ header:
   {% include archive-single.html %}
 {% endfor %} -->
 
-- **Optimal Experimental Design with Routing Constraints**  <a href="https://optimization-online.org/2025/03/optimal-experimental-design-with-routing-constraints/" style="display: inline-block; padding: 2px 4px; font-size: 16px; color: white; background-color: #52acc8; text-align: center; text-decoration: none; border-radius: 4px;">Preprint</a> 
+- **Optimal Experimental Design with Routing Constraints**  <a href="https://optimization-online.org/2025/03/optimal-experimental-design-with-routing-constraints/" style="display: inline-block; padding: 2px 4px; font-size: 16px; color: white; background-color: #52acc8; text-align: center; text-decoration: none; border-radius: 4px;">Preprint</a>  
 *Working Paper*, 2025  
   With Jean Pauphilet 

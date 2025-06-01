@@ -18,7 +18,7 @@ header:
   With Dick den Hertog, Jean Pauphilet, Bruno Sainte-Rose and Yannick Pham 
 
   <!-- [(The Ocean Cleanup)](https://theoceancleanup.com/) -->
-  - Finalist, *INFORMS Innovative Applications in Analytics Award (2025)*
+  - Third Prize, *INFORMS Innovative Applications in Analytics Award (2025)*
   - Honorable Mention, *INFORMS Doing Good with Good OR Student Paper Competition (2024)*
   - Presented at *MSOM Sustainable Operations SIG Conference (2024)*
   - Winner, *POMS College of Sustainable Operations Student Paper Competition (2024)*

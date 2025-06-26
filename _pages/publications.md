@@ -25,7 +25,7 @@ header:
   - Honorable Mention, *INFORMS Transportation Science and Logistics Best Student Paper Award (2023)*
 
   <details style="margin: 0.5em 0 1em; padding-top: 0.5em;">
-    <summary style="cursor: pointer; font-weight: bold;">
+    <summary style="cursor: pointer; ">
       Short summary
     </summary>
     <p>

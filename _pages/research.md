@@ -6,7 +6,7 @@ redirect_from:
   - /publications/
 author_profile: true
 header:
-    overlay_image: /forest.jpg
+    overlay_image: /01_TOC/TOC_system03.jpg
 ---
 <!-- ## Publications -->
 

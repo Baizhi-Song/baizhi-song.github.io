@@ -8,11 +8,7 @@ author_profile: true
 header:
     overlay_image: /01_TOC/TOC_system03.jpg
 ---
-<!-- ## Publications -->
-
-<a name="optimal-experimental-design-with-routing-constraints"></a>
-- **[Optimal Experimental Design with Routing Constraints](https://optimization-online.org/2025/03/optimal-experimental-design-with-routing-constraints/)**  <a href="https://optimization-online.org/2025/03/optimal-experimental-design-with-routing-constraints/" style="display: inline-block; padding: 2px 4px; font-size: 16px; color: white; background-color: #52acc8; text-align: center; text-decoration: none; border-radius: 4px;">Preprint</a>  
-*Working Paper*, 2025, with Jean Pauphilet 
+## Publication
 
 <a name="optimizing-the-path-towards-plastic-free-oceans"></a>
 - **[Optimizing the Path Towards Plastic-Free Oceans](https://pubsonline.informs.org/doi/full/10.1287/opre.2023.0515)**  <a href="https://optimization-online.org/2023/10/optimizing-the-path-towards-plastic-free-oceans/" style="display: inline-block; padding: 2px 4px; font-size: 16px; color: white; background-color: #52acc8; text-align: center; text-decoration: none; border-radius: 4px;">Preprint</a>  <a href="https://www.london.edu/think/winning-the-race-for-cleaner-oceans-with-analytics" style="display: inline-block; padding: 2px 4px; font-size: 16px; color: white; background-color: #52acc8; text-align: center; text-decoration: none; border-radius: 4px;">Media</a>  <a href="{{ site.baseurl }}/research/ocean_cleanup.html" style="display: inline-block; padding: 2px 4px; font-size: 16px; color: white; background-color: #52acc8; text-align: center; text-decoration: none; border-radius: 4px;">Website</a>  
@@ -20,6 +16,8 @@ header:
   With Dick den Hertog, Jean Pauphilet, Bruno Sainte-Rose and Yannick Pham 
 
   <!-- [(The Ocean Cleanup)](https://theoceancleanup.com/) -->
+  - Runner-Up, *MSOM Society Award for Responsible Research in Operations Management (2025)*
+  - Finalist, *Best OM Paper in Operations Research Award (2025)*
   - Third Prize, *INFORMS Innovative Applications in Analytics Award (2025)*
   - Honorable Mention, *INFORMS Doing Good with Good OR Student Paper Competition (2024)*
   - Presented at *MSOM Sustainable Operations SIG Conference (2024)*
@@ -50,6 +48,22 @@ header:
       </figure>
     </div>
   </details>
+
+
+## Working Paper
+
+<a name="optimal-experimental-design-with-routing-constraints"></a>
+- **[Optimal Experimental Design with Routing Constraints](https://optimization-online.org/2025/03/optimal-experimental-design-with-routing-constraints/)**  <a href="https://optimization-online.org/2025/03/optimal-experimental-design-with-routing-constraints/" style="display: inline-block; padding: 2px 4px; font-size: 16px; color: white; background-color: #52acc8; text-align: center; text-decoration: none; border-radius: 4px;">Preprint</a>  
+*Working Paper*, 2025, with Jean Pauphilet 
+
+## Works in Progress
+
+- **Moving Fast and Slow: Speed Optimization for Ocean Cleanup Operations**, with Jean Pauphilet 
+
+- **Calculating a Diverse Set of Near-Optimal Solutions: Why and How?**, with Dick den Hertog, Jean Pauphilet, and Justin Starreveld
+
+- **Designing Wildfire-Aware Powerlines via Stochastic Bottleneck Problem**, with Jean Pauphilet
+
 
 <!-- {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>

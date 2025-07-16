@@ -16,11 +16,12 @@ Welcome! I am a fourth-year Ph.D. candidate in [Management Science and Operation
 
 My research objective is to develop novel optimization algorithms to address pressing environmental challenges. Motivated by a real-world collaboration, my research experience has led me to investigate the routing of plastic collection systems in the ocean, strategies for environmental data collection, and the integration of optimization solutions into decision-support systems. Recently, my research has expanded from protecting the environment from human-induced pollution to include climate resilience solutions that protect society from environmental threats, such as designing wildfire-aware powerline systems. To tackle these challenges, I have combined discrete optimization, dynamic programming, stochastic optimization, and machine learning techniques in the context of environmental and transportation applications.
 
-**I am on the 2025-2026 academic job market.** I will present at the upcoming [INFORMS International Conference](https://meetings.informs.org/wordpress/2025international/):
+**I am on the 2025-2026 academic job market.** 
+I will present at the upcoming [INFORMS International Conference:](https://meetings.informs.org/wordpress/2025international/)
 - Title: *Optimal Experimental Design with Routing Constraints*.
 - Session: MC03, Recent Advances in Data-driven Optimization
-- Time: 3:45-4:15pm, Monday, July 21, 2025.
-- Location: Minto, Raffles City Convention Centre, Singapore.
+- **Time: 3:45-4:15pm, Monday, July 21**, 2025.
+- **Location: Minto**, Raffles City Convention Centre, Singapore.
 
 
 <!-- 

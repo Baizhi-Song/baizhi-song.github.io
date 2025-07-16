@@ -58,13 +58,13 @@ header:
 
 ## Works in Progress
 
-- **Moving Fast and Slow: Speed Optimization for Ocean Cleanup Operations**
+- **Moving Fast and Slow: Speed Optimization for Ocean Cleanup Operations**  
 With Jean Pauphilet 
 
-- **Calculating a Diverse Set of Near-Optimal Solutions: Why and How?**
+- **Calculating a Diverse Set of Near-Optimal Solutions: Why and How?**  
 With Dick den Hertog, Jean Pauphilet, and Justin Starreveld
 
-- **Designing Wildfire-Aware Powerlines via Stochastic Bottleneck Problem**
+- **Designing Wildfire-Aware Powerlines via Stochastic Bottleneck Problem**  
 With Jean Pauphilet and Guillermo Rein
 
 

@@ -25,8 +25,8 @@ header:
   - Honorable Mention, *INFORMS Transportation Science and Logistics Best Student Paper Award (2023)*
 
   <details style="margin: 0.5em 0 1em; padding-top: 0.5em;">
-    <summary style="cursor: pointer; ">
-      Short Paper Summary
+    <summary style="cursor: pointer; color: #52acc8">
+      Paper Summary
     </summary>
     <p>
       Increasing ocean plastic pollution is irreversibly harming ecosystems and human economic activities. We partner with a Dutch NGO, <a href="https://theoceancleanup.com/">The Ocean Cleanup (TOC)</a>, and use optimization to help clean up oceans from plastic faster. 

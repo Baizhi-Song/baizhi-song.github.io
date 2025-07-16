@@ -34,13 +34,13 @@ header:
       On one-year ocean data, our optimization-based routing approach increases the quantity of plastic collected by over 60% compared with their current routing strategy, hence speeding up the progress towards plastic-free oceans.
     </p>
     <div style="display: flex; gap: 1em; flex-wrap: wrap; align-items: flex-start;">
-      <figure style="flex: 1 1 38%; margin: 0;">
+      <figure style="flex: 1 1 43%; margin: 0;">
         <img src="/images/01_TOC/TOC_system02.jpg" alt="" style="width: 100%; height: auto;border-radius: 4px;">
         <figcaption style="text-align: center; font-size: 0.85em;">
           Plastic collection system 002 (TOC)
         </figcaption>
       </figure>
-      <figure style="flex: 1 1 55%; margin: 0;">
+      <figure style="flex: 1 1 52%; margin: 0;">
         <img src="/images/01_TOC/path_demo_weather_2month_HD-ppt.gif" alt="" style="width: 100%; height: auto; border-radius: 4px;">
         <figcaption style="text-align: center; font-size: 0.85em;">
           Animation of plastic collection route

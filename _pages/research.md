@@ -26,24 +26,24 @@ header:
 
   <details style="margin: 0.5em 0 1em; padding-top: 0.5em;">
     <summary style="cursor: pointer; ">
-      Short summary
+      Short Paper Summary
     </summary>
     <p>
       Increasing ocean plastic pollution is irreversibly harming ecosystems and human economic activities. We partner with a Dutch NGO, <a href="https://theoceancleanup.com/">The Ocean Cleanup (TOC)</a>, and use optimization to help clean up oceans from plastic faster. 
       In our paper, we optimize the route of their plastic collection system in the ocean to maximize the quantity of plastic collected over time.
       On one-year ocean data, our optimization-based routing approach increases the quantity of plastic collected by over 60% compared with their current routing strategy, hence speeding up the progress towards plastic-free oceans.
     </p>
-    <div style="display: flex; gap: 1em; flex-wrap: wrap;">
-      <figure style="flex: 1 1 40%; margin: 0;">
-        <img src="/images/01_TOC/TOC_system02.jpg" alt="" style="width: 100%; border-radius: 4px;">
+    <div style="display: flex; gap: 1em; flex-wrap: wrap; align-items: flex-start;">
+      <figure style="flex: 1 1 38%; margin: 0;">
+        <img src="/images/01_TOC/TOC_system02.jpg" alt="" style="width: 100%; height: auto;border-radius: 4px;">
         <figcaption style="text-align: center; font-size: 0.85em;">
-          Cleaning system 002 (TOC)
+          Plastic collection system 002 (TOC)
         </figcaption>
       </figure>
       <figure style="flex: 1 1 55%; margin: 0;">
-        <img src="/images/01_TOC/path_demo_weather_2month_HD-ppt.gif" alt="" style="width: 100%; border-radius: 4px;">
+        <img src="/images/01_TOC/path_demo_weather_2month_HD-ppt.gif" alt="" style="width: 100%; height: auto; border-radius: 4px;">
         <figcaption style="text-align: center; font-size: 0.85em;">
-          Animation of cleaning route
+          Animation of plastic collection route
         </figcaption>
       </figure>
     </div>
@@ -58,11 +58,14 @@ header:
 
 ## Works in Progress
 
-- **Moving Fast and Slow: Speed Optimization for Ocean Cleanup Operations**, with Jean Pauphilet 
+- **Moving Fast and Slow: Speed Optimization for Ocean Cleanup Operations**
+With Jean Pauphilet 
 
-- **Calculating a Diverse Set of Near-Optimal Solutions: Why and How?**, with Dick den Hertog, Jean Pauphilet, and Justin Starreveld
+- **Calculating a Diverse Set of Near-Optimal Solutions: Why and How?**
+With Dick den Hertog, Jean Pauphilet, and Justin Starreveld
 
-- **Designing Wildfire-Aware Powerlines via Stochastic Bottleneck Problem**, with Jean Pauphilet
+- **Designing Wildfire-Aware Powerlines via Stochastic Bottleneck Problem**
+With Jean Pauphilet and Guillermo Rein
 
 
 <!-- {% if site.author.googlescholar %}

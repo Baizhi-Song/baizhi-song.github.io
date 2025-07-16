@@ -9,6 +9,7 @@ header:
 
 ## Teaching Assistant, London Business School
 
+- CL03 Managerial Statistic [(EMBA-Global core)](https://www.emba-global.com/programme-details/core-courses): Summer 2025.
 - TC03 Business Analytics [(MBA core)](https://www.london.edu/masters-degrees/mba/programme-content/core-courses): Summer 2023, Summer 2024.
 - AM04 Data Science for Business I & II [(MAM core)](https://www.london.edu/masters-degrees/masters-in-analytics-and-management/programme-content/core-courses): Fall 2022, Fall 2023, Fall 2024 (Head TA in 2024).
 

@@ -17,11 +17,17 @@ Welcome! I am a fourth-year Ph.D. candidate in [Management Science and Operation
 My research objective is to develop novel optimization algorithms to address pressing environmental challenges. Motivated by a real-world collaboration, my research experience has led me to investigate the routing of plastic collection systems in the ocean, strategies for environmental data collection, and the integration of optimization solutions into decision-support systems. Recently, my research has expanded from protecting the environment from human-induced pollution to include climate resilience solutions that protect society from environmental threats, such as designing wildfire-aware powerline systems. To tackle these challenges, I have combined discrete optimization, dynamic programming, stochastic optimization, and machine learning techniques in the context of environmental and transportation applications.
 
 **I am on the 2025-2026 academic job market.** 
-I will present at the upcoming [INFORMS International Conference:](https://meetings.informs.org/wordpress/2025international/)
-- Title: *Optimal Experimental Design with Routing Constraints*.
-- Session: MC03, Recent Advances in Data-driven Optimization
-- **Time: 3:45-4:15pm, Monday, July 21**, 2025.
-- **Location: Minto**, Raffles City Convention Centre, Singapore.
+I will present in two sessions at the upcoming [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/agenda/):
+
+- Title: *Optimizing the Path Towards Plastic-Free Oceans*.
+- Session: **SC45**, MSOM Student Paper Competition (Award Session)
+- **Time: 1:15-2:30pm, Sunday, October 26**, 2025.
+- **Location: B305**, Building B, Level 3, Georgia World Congress Center, Atlanta, GA.
+
+- Title: *Operationalizing Experimental Design: Data Collection for Remote Ocean Monitoring*.
+- Session: **SD51**, Data-driven Sustainable Operations (Invited Session)
+- **Time: 3:30-3:45pm, Sunday, October 26**, 2025.
+- **Location: B311**, Building B, Level 3, Georgia World Congress Center, Atlanta, GA.
 
 
 <!-- 

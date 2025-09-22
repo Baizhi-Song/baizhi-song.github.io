@@ -19,16 +19,14 @@ My research objective is to develop novel optimization algorithms to address pre
 **I am on the 2025-2026 academic job market.** 
 I will present in two sessions at the upcoming [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/agenda/):
 
-- Title: *Optimizing the Path Towards Plastic-Free Oceans*.
-- Session: **SC45**, MSOM Student Paper Competition (Award Session)
-- Time: **1:15-2:30pm, Sunday**, October 26, 2025.
-- Location: **B305**, Building B, Level 3, Georgia World Congress Center, Atlanta, GA.
-
-
-- Title: *Operationalizing Experimental Design: Data Collection for Remote Ocean Monitoring*.
-- Session: **SD51**, Data-driven Sustainable Operations (Invited Session)
-- Time: **3:30-3:45pm, Sunday**, October 26, 2025.
-- Location: **B311**, Building B, Level 3, Georgia World Congress Center, Atlanta, GA.
+1. Title: *Optimizing the Path Towards Plastic-Free Oceans*.
+  - Session: **SC45**, MSOM Student Paper Competition (Award Session).
+  - Time: **1:15-2:30pm, Sunday**, October 26, 2025.
+  - Location: **B305**, Building B, Level 3, Georgia World Congress Center, Atlanta, GA.
+2. Title: *Operationalizing Experimental Design: Data Collection for Remote Ocean Monitoring*.
+  - Session: **SD51**, Data-driven Sustainable Operations (Invited Session).
+  - Time: **3:30-3:45pm, Sunday**, October 26, 2025.
+  - Location: **B311**, Building B, Level 3, Georgia World Congress Center, Atlanta, GA.
 
 
 <!-- 

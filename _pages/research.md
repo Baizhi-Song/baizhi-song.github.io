@@ -60,7 +60,7 @@ header:
 <!-- <a href="https://optimization-online.org/2025/03/optimal-experimental-design-with-routing-constraints/" style="display: inline-block; padding: 2px 4px; font-size: 16px; color: white; background-color: #52acc8; text-align: center; text-decoration: none; border-radius: 4px;">Preprint</a>   -->
 *Under Review*, 2025, with Jean Pauphilet 
 
-## Works in Progress
+## Work in Progress
 
 - **Moving Fast and Slow: Speed Optimization for Ocean Cleanup Operations**  
 With Jean Pauphilet 

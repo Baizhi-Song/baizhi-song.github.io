@@ -25,7 +25,7 @@ I will present in two sessions at the upcoming [INFORMS Annual Meeting](https://
   - Location: **B305**, Building B, Level 3, Georgia World Congress Center, Atlanta, GA.
 2. *Operationalizing Experimental Design: Data Collection for Remote Ocean Monitoring*.
   - Session: **SD51**, Data-driven Sustainable Operations (Invited Session).
-  - Time: **3:22 - 3:45pm, Sunday**, October 26, 2025.
+  - Time: **3:21 - 3:39pm, Sunday**, October 26, 2025.
   - Location: **B311**, Building B, Level 3, Georgia World Congress Center, Atlanta, GA.
 
 

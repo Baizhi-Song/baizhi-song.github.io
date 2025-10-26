@@ -85,4 +85,4 @@ Looking ahead, it is valuable to account for uncertainty in weather predictions 
 <hr style="border: none; border-top: 1px solid rgba(0, 0, 0, 0.1); margin: 20px 0;">
 
 **Paper:** 
-- **[Optimizing the Path Towards Plastic-Free Oceans](https://pubsonline.informs.org/doi/full/10.1287/opre.2023.0515)**, Dick den Hertog, Jean Pauphilet, Yannick Pham, Bruno Sainte-Rose, and Baizhi Song (2024) 
+- **[Optimizing the Path Towards Plastic-Free Oceans](https://pubsonline.informs.org/doi/full/10.1287/opre.2023.0515)**, Dick den Hertog, Jean Pauphilet, Yannick Pham, Bruno Sainte-Rose, and Baizhi Song (2025). *Operations Research*, 73(3), 1165-1183. 

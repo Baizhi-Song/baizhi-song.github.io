@@ -16,7 +16,7 @@ header:
   With Dick den Hertog, Jean Pauphilet, Bruno Sainte-Rose and Yannick Pham 
 
   <!-- [(The Ocean Cleanup)](https://theoceancleanup.com/) -->
-  - Finalist, *MSOM Student Paper Competition (2025)*
+  - Winner, *MSOM Student Paper Competition (2025)*
   - Runner-Up, *MSOM Society Award for Responsible Research in Operations Management (2025)*
   - Finalist, *Best OM Paper in Operations Research Award (2025)*
   - Third Prize, *INFORMS Innovative Applications in Analytics Award (2025)*

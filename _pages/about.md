@@ -16,17 +16,7 @@ Welcome! I am a fifth-year Ph.D. candidate in [Management Science and Operations
 
 My research objective is to develop novel optimization algorithms to address pressing environmental challenges. Motivated by a real-world collaboration, my research experience has led me to investigate the routing of plastic collection systems in the ocean, strategies for environmental data collection, and the integration of optimization solutions into decision-support systems. Recently, my research has expanded from protecting the environment from human-induced pollution to include climate resilience solutions that protect society from environmental threats, such as designing wildfire-aware powerline systems. To tackle these challenges, I have combined discrete optimization, dynamic programming, stochastic optimization, and machine learning techniques in the context of environmental and transportation applications.
 
-**I am on the 2025-2026 academic job market.** 
-I will present in two sessions at the upcoming [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/agenda/):
-
-1. *Optimizing the Path Towards Plastic-Free Oceans*.
-  - Session: **SC45**, MSOM Student Paper Competition (Award Session).
-  - Time: **1:15 - 2:30pm, Sunday**, October 26, 2025.
-  - Location: **B305**, Building B, Level 3, Georgia World Congress Center, Atlanta, GA.
-2. *Operationalizing Experimental Design: Data Collection for Remote Ocean Monitoring*.
-  - Session: **SD51**, Data-driven Sustainable Operations (Invited Session).
-  - Time: **3:21 - 3:39pm, Sunday**, October 26, 2025.
-  - Location: **B311**, Building B, Level 3, Georgia World Congress Center, Atlanta, GA.
+I am excited to be joining the [Department of Operations and Information Management](https://business.wisc.edu/faculty-research/operations-information-management/) at the Wisconsin School of Business, University of Wisconsin–Madison, as a tenure-track Assistant Professor starting in Fall 2026.
 
 
 <!-- 

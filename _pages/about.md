@@ -11,12 +11,13 @@ header:
     overlay_image: /sail.jpg
 ---
 
-Welcome! I am a fifth-year Ph.D. candidate in [Management Science and Operations](https://www.london.edu/faculty-and-research/management-science-and-operations/phd-programme) at [London Business School](https://www.london.edu/), where I am fortunate to be advised by Prof. [Jean Pauphilet](https://jeanpauphilet.github.io/). I am also excited to collaborate with [Analytics for a Better World](https://analyticsbetterworld.org/). In 2021, I received my Master's degree in [Financial Engineering](https://ieor.columbia.edu/financial-engineering-msfe) from [Columbia University](https://www.columbia.edu/). In 2019, I  received my Bachelor’s degree in [Actuarial Science](https://cias.cufe.edu.cn/index.htm) from [Central University of Finance and Economics](https://en.cufe.edu.cn/) (China).    
+Welcome! I am a tenure-track Assistant Professor in [Operations and Information Management](https://business.wisc.edu/faculty-research/operations-information-management/) at the [Wisconsin School of Business](https://business.wisc.edu), University of Wisconsin–Madison.
+I received my Ph.D. degree in [Management Science and Operations](https://www.london.edu/faculty-and-research/management-science-and-operations/phd-programme) from [London Business School](https://www.london.edu/), where I am fortunate to be advised by Prof. [Jean Pauphilet](https://jeanpauphilet.github.io/). I am also excited to collaborate with [Analytics for a Better World](https://analyticsbetterworld.org/). In 2021, I received my Master's degree in [Financial Engineering](https://ieor.columbia.edu/financial-engineering-msfe) from [Columbia University](https://www.columbia.edu/). In 2019, I  received my Bachelor’s degree in [Actuarial Science](https://cias.cufe.edu.cn/index.htm) from [Central University of Finance and Economics](https://en.cufe.edu.cn/) (China).    
  
 
 My research objective is to develop novel optimization algorithms to address pressing environmental challenges. Motivated by a real-world collaboration, my research experience has led me to investigate the routing of plastic collection systems in the ocean, strategies for environmental data collection, and the integration of optimization solutions into decision-support systems. Recently, my research has expanded from protecting the environment from human-induced pollution to include climate resilience solutions that protect society from environmental threats, such as designing wildfire-aware powerline systems. To tackle these challenges, I have combined discrete optimization, dynamic programming, stochastic optimization, and machine learning techniques in the context of environmental and transportation applications.
 
-**I am excited to be joining the [Department of Operations and Information Management](https://business.wisc.edu/faculty-research/operations-information-management/) at the Wisconsin School of Business, University of Wisconsin–Madison, as a tenure-track Assistant Professor starting in Fall 2026.**
+
 
 
 <!-- 
